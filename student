@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>HC Links</title>
+    <meta name="description" content="Links to our valued personal">
+    <script
+      src="https://kit.fontawesome.com/9b3bbb804d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="outer">
+      <div class="content">
+        <div class="block">
+          <div class="profile">
+            <img src="images/logo.png" alt="Hill College main crest logo" />
+            <h1>Hill College</h1>
+            <div class="location">
+              <i class="fas fa-map-marker-alt"></i> Online, Australia
+            </div>
+            <div class="bio">
+              <div>⭐ Your world-class academic online college! ⭐</div>
+              <div>See MyCollege for Student and Staff links</div>
+            </div>
+          </div>
+          <div class="links">
+            <a href="mailto:charlie.h@hillcollege.online" class="contactbutton">
+              <i class="fas fa-envelope-open"></i> Email Us
+            </a>
+          </div>
+        </div>
+  
+
+
+      </div>
+    </div>
+  </body>
+</html>
